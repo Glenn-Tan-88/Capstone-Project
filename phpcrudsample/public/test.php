@@ -59,7 +59,7 @@ $mail->isSMTP();
 $mail->Host = 'smtp.gmail.com';
  
 /* SMTP TCP port */
-$mail->Port = 465;
+$mail->Port = 565;
  
 /* Use TSL secure connection */
 $mail->SMTPSecure = 'ssl';
